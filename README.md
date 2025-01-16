@@ -1,2 +1,2 @@
 # Kerbase
-A custom database made from scratch in C++
+A custom redis database server made from scratch in C++
